@@ -1,10 +1,10 @@
- ![banner](img/kitten.jpg)
+ ![banner](img/door.jpg)
 
- # Lorem ipsum sic header
+ # gegoogle this!
 
 * List
 * of
 * bullet
 * points
 
-<p> There <span style="color:red">is a bug</span> in this file</p>
+<p> There is no German in this file</p>
